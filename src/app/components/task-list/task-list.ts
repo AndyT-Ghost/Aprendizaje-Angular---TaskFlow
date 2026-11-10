@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, Input } from '@angular/core';
 import { CommonModule } from '@angular/common';
 
 interface Tarea{
@@ -19,17 +19,9 @@ interface Tarea{
 })
 
 export class TaskList {
-  mostrarMensaje = true;
+  @Input() tareas: Tarea[] = [];
 
-  tareas: Tarea[] = [
-    {id: 1, titulo: 'Tarea 1', descripcion: 'Descripción de la tarea 1', completada: false, prioridad: 'Alta', fechaLimite: '2026-06-30'},
-    {id: 2, titulo: 'Tarea 2', descripcion: 'Descripción de la tarea 2', completada: true, prioridad: 'Media', fechaLimite: '2026-11-15'},
-    {id: 3, titulo: 'Tarea 3', descripcion: 'Descripción de la tarea 3', completada: false, prioridad: 'Alta', fechaLimite: '2026-08-01'},
-    {id: 4, titulo: 'Tarea 4', descripcion: 'Descripción de la tarea 4', completada: true, prioridad: 'Alta', fechaLimite: '2026-06-30'},
-    {id: 5, titulo: 'Tarea 5', descripcion: 'Descripción de la tarea 5', completada: false, prioridad: 'Media', fechaLimite: '2026-07-15'},
-    {id: 6, titulo: 'Tarea 6', descripcion: 'Descripción de la tarea 6', completada: true, prioridad: 'Baja', fechaLimite: '2026-08-29'},
-    {id: 7, titulo: 'Tarea 7', descripcion: 'Descripción de la tarea 7', completada: false, prioridad: 'Alta', fechaLimite: '2026-11-30'}
-  ];
+  mostrarMensaje = true;
 
   alternarMensaje(){
     this.mostrarMensaje = !this.mostrarMensaje;
