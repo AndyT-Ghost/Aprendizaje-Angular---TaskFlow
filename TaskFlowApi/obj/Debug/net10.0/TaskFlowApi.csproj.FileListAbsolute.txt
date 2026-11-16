@@ -8,6 +8,9 @@ C:\Users\david\Documents\Universidad\Septimo Semestre\DESARROLLO DE APLICACIONES
 C:\Users\david\Documents\Universidad\Septimo Semestre\DESARROLLO DE APLICACIONES WEB AVANZADO\DAWA_74\TaskFlowApi\bin\Debug\net10.0\TaskFlowApi.pdb
 C:\Users\david\Documents\Universidad\Septimo Semestre\DESARROLLO DE APLICACIONES WEB AVANZADO\DAWA_74\TaskFlowApi\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
 C:\Users\david\Documents\Universidad\Septimo Semestre\DESARROLLO DE APLICACIONES WEB AVANZADO\DAWA_74\TaskFlowApi\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\david\Documents\Universidad\Septimo Semestre\DESARROLLO DE APLICACIONES WEB AVANZADO\DAWA_74\TaskFlowApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\david\Documents\Universidad\Septimo Semestre\DESARROLLO DE APLICACIONES WEB AVANZADO\DAWA_74\TaskFlowApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\david\Documents\Universidad\Septimo Semestre\DESARROLLO DE APLICACIONES WEB AVANZADO\DAWA_74\TaskFlowApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\david\Documents\Universidad\Septimo Semestre\DESARROLLO DE APLICACIONES WEB AVANZADO\DAWA_74\TaskFlowApi\obj\Debug\net10.0\TaskFlowApi.csproj.AssemblyReference.cache
 C:\Users\david\Documents\Universidad\Septimo Semestre\DESARROLLO DE APLICACIONES WEB AVANZADO\DAWA_74\TaskFlowApi\obj\Debug\net10.0\rpswa.dswa.cache.json
 C:\Users\david\Documents\Universidad\Septimo Semestre\DESARROLLO DE APLICACIONES WEB AVANZADO\DAWA_74\TaskFlowApi\obj\Debug\net10.0\TaskFlowApi.GeneratedMSBuildEditorConfig.editorconfig
