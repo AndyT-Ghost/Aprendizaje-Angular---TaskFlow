@@ -10,8 +10,8 @@ namespace TaskFlowApi.Controllers
         private static List<Tarea> tareas = new List<Tarea>
         {
             //Crear objetos tarea y se a gregan a la lista de tareas
-            new Tarea { Id = 1, Titulo = "Tarea 1", Descripcion = "Descripción de la tarea 1", Completada = false },
-            new Tarea { Id = 2, Titulo = "Tarea 2", Descripcion = "Descripción de la tarea 2", Completada = true }
+            new Tarea { Id = 1, Titulo = "Tarea 1", Descripcion = "Descripción de la tarea 1", Completada = false, prioridad = "Alta", fecha = "2026-12-12"},
+            new Tarea { Id = 2, Titulo = "Tarea 2", Descripcion = "Descripción de la tarea 2", Completada = true, prioridad = "Alta", fecha = "2026-12-12"}
         };
 
         [HttpGet]

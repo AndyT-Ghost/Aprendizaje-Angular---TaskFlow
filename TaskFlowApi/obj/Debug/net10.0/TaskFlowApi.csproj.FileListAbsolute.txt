@@ -1,37 +1,74 @@
-C:\Users\david\Documents\Universidad\Septimo Semestre\DESARROLLO DE APLICACIONES WEB AVANZADO\DAWA_74\TaskFlowApi\bin\Debug\net10.0\appsettings.Development.json
-C:\Users\david\Documents\Universidad\Septimo Semestre\DESARROLLO DE APLICACIONES WEB AVANZADO\DAWA_74\TaskFlowApi\bin\Debug\net10.0\appsettings.json
-C:\Users\david\Documents\Universidad\Septimo Semestre\DESARROLLO DE APLICACIONES WEB AVANZADO\DAWA_74\TaskFlowApi\bin\Debug\net10.0\TaskFlowApi.staticwebassets.endpoints.json
-C:\Users\david\Documents\Universidad\Septimo Semestre\DESARROLLO DE APLICACIONES WEB AVANZADO\DAWA_74\TaskFlowApi\bin\Debug\net10.0\TaskFlowApi.exe
-C:\Users\david\Documents\Universidad\Septimo Semestre\DESARROLLO DE APLICACIONES WEB AVANZADO\DAWA_74\TaskFlowApi\bin\Debug\net10.0\TaskFlowApi.deps.json
-C:\Users\david\Documents\Universidad\Septimo Semestre\DESARROLLO DE APLICACIONES WEB AVANZADO\DAWA_74\TaskFlowApi\bin\Debug\net10.0\TaskFlowApi.runtimeconfig.json
-C:\Users\david\Documents\Universidad\Septimo Semestre\DESARROLLO DE APLICACIONES WEB AVANZADO\DAWA_74\TaskFlowApi\bin\Debug\net10.0\TaskFlowApi.dll
-C:\Users\david\Documents\Universidad\Septimo Semestre\DESARROLLO DE APLICACIONES WEB AVANZADO\DAWA_74\TaskFlowApi\bin\Debug\net10.0\TaskFlowApi.pdb
-C:\Users\david\Documents\Universidad\Septimo Semestre\DESARROLLO DE APLICACIONES WEB AVANZADO\DAWA_74\TaskFlowApi\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
-C:\Users\david\Documents\Universidad\Septimo Semestre\DESARROLLO DE APLICACIONES WEB AVANZADO\DAWA_74\TaskFlowApi\bin\Debug\net10.0\Microsoft.OpenApi.dll
-C:\Users\david\Documents\Universidad\Septimo Semestre\DESARROLLO DE APLICACIONES WEB AVANZADO\DAWA_74\TaskFlowApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\david\Documents\Universidad\Septimo Semestre\DESARROLLO DE APLICACIONES WEB AVANZADO\DAWA_74\TaskFlowApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\david\Documents\Universidad\Septimo Semestre\DESARROLLO DE APLICACIONES WEB AVANZADO\DAWA_74\TaskFlowApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\david\Documents\Universidad\Septimo Semestre\DESARROLLO DE APLICACIONES WEB AVANZADO\DAWA_74\TaskFlowApi\obj\Debug\net10.0\TaskFlowApi.csproj.AssemblyReference.cache
-C:\Users\david\Documents\Universidad\Septimo Semestre\DESARROLLO DE APLICACIONES WEB AVANZADO\DAWA_74\TaskFlowApi\obj\Debug\net10.0\rpswa.dswa.cache.json
-C:\Users\david\Documents\Universidad\Septimo Semestre\DESARROLLO DE APLICACIONES WEB AVANZADO\DAWA_74\TaskFlowApi\obj\Debug\net10.0\TaskFlowApi.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\david\Documents\Universidad\Septimo Semestre\DESARROLLO DE APLICACIONES WEB AVANZADO\DAWA_74\TaskFlowApi\obj\Debug\net10.0\TaskFlowApi.AssemblyInfoInputs.cache
-C:\Users\david\Documents\Universidad\Septimo Semestre\DESARROLLO DE APLICACIONES WEB AVANZADO\DAWA_74\TaskFlowApi\obj\Debug\net10.0\TaskFlowApi.AssemblyInfo.cs
-C:\Users\david\Documents\Universidad\Septimo Semestre\DESARROLLO DE APLICACIONES WEB AVANZADO\DAWA_74\TaskFlowApi\obj\Debug\net10.0\TaskFlowApi.csproj.CoreCompileInputs.cache
-C:\Users\david\Documents\Universidad\Septimo Semestre\DESARROLLO DE APLICACIONES WEB AVANZADO\DAWA_74\TaskFlowApi\obj\Debug\net10.0\TaskFlowApi.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\david\Documents\Universidad\Septimo Semestre\DESARROLLO DE APLICACIONES WEB AVANZADO\DAWA_74\TaskFlowApi\obj\Debug\net10.0\TaskFlowApi.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\david\Documents\Universidad\Septimo Semestre\DESARROLLO DE APLICACIONES WEB AVANZADO\DAWA_74\TaskFlowApi\obj\Debug\net10.0\TaskFlowApi.sourcelink.json
-C:\Users\david\Documents\Universidad\Septimo Semestre\DESARROLLO DE APLICACIONES WEB AVANZADO\DAWA_74\TaskFlowApi\obj\Debug\net10.0\rjimswa.dswa.cache.json
-C:\Users\david\Documents\Universidad\Septimo Semestre\DESARROLLO DE APLICACIONES WEB AVANZADO\DAWA_74\TaskFlowApi\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
-C:\Users\david\Documents\Universidad\Septimo Semestre\DESARROLLO DE APLICACIONES WEB AVANZADO\DAWA_74\TaskFlowApi\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
-C:\Users\david\Documents\Universidad\Septimo Semestre\DESARROLLO DE APLICACIONES WEB AVANZADO\DAWA_74\TaskFlowApi\obj\Debug\net10.0\scopedcss\bundle\TaskFlowApi.styles.css
-C:\Users\david\Documents\Universidad\Septimo Semestre\DESARROLLO DE APLICACIONES WEB AVANZADO\DAWA_74\TaskFlowApi\obj\Debug\net10.0\staticwebassets.build.json
-C:\Users\david\Documents\Universidad\Septimo Semestre\DESARROLLO DE APLICACIONES WEB AVANZADO\DAWA_74\TaskFlowApi\obj\Debug\net10.0\staticwebassets.build.json.cache
-C:\Users\david\Documents\Universidad\Septimo Semestre\DESARROLLO DE APLICACIONES WEB AVANZADO\DAWA_74\TaskFlowApi\obj\Debug\net10.0\staticwebassets.development.json
-C:\Users\david\Documents\Universidad\Septimo Semestre\DESARROLLO DE APLICACIONES WEB AVANZADO\DAWA_74\TaskFlowApi\obj\Debug\net10.0\staticwebassets.build.endpoints.json
-C:\Users\david\Documents\Universidad\Septimo Semestre\DESARROLLO DE APLICACIONES WEB AVANZADO\DAWA_74\TaskFlowApi\obj\Debug\net10.0\swae.build.ex.cache
-C:\Users\david\Documents\Universidad\Septimo Semestre\DESARROLLO DE APLICACIONES WEB AVANZADO\DAWA_74\TaskFlowApi\obj\Debug\net10.0\TaskFlow.5F155254.Up2Date
-C:\Users\david\Documents\Universidad\Septimo Semestre\DESARROLLO DE APLICACIONES WEB AVANZADO\DAWA_74\TaskFlowApi\obj\Debug\net10.0\TaskFlowApi.dll
-C:\Users\david\Documents\Universidad\Septimo Semestre\DESARROLLO DE APLICACIONES WEB AVANZADO\DAWA_74\TaskFlowApi\obj\Debug\net10.0\refint\TaskFlowApi.dll
-C:\Users\david\Documents\Universidad\Septimo Semestre\DESARROLLO DE APLICACIONES WEB AVANZADO\DAWA_74\TaskFlowApi\obj\Debug\net10.0\TaskFlowApi.pdb
-C:\Users\david\Documents\Universidad\Septimo Semestre\DESARROLLO DE APLICACIONES WEB AVANZADO\DAWA_74\TaskFlowApi\obj\Debug\net10.0\TaskFlowApi.genruntimeconfig.cache
-C:\Users\david\Documents\Universidad\Septimo Semestre\DESARROLLO DE APLICACIONES WEB AVANZADO\DAWA_74\TaskFlowApi\obj\Debug\net10.0\ref\TaskFlowApi.dll
+C:/Users/david/Documents/Universidad/Septimo Semestre/DESARROLLO DE APLICACIONES WEB AVANZADO/DAWA_74/TaskFlowApi/bin/Debug/net10.0/appsettings.Development.json
+C:/Users/david/Documents/Universidad/Septimo Semestre/DESARROLLO DE APLICACIONES WEB AVANZADO/DAWA_74/TaskFlowApi/bin/Debug/net10.0/appsettings.json
+C:/Users/david/Documents/Universidad/Septimo Semestre/DESARROLLO DE APLICACIONES WEB AVANZADO/DAWA_74/TaskFlowApi/bin/Debug/net10.0/TaskFlowApi.staticwebassets.endpoints.json
+C:/Users/david/Documents/Universidad/Septimo Semestre/DESARROLLO DE APLICACIONES WEB AVANZADO/DAWA_74/TaskFlowApi/bin/Debug/net10.0/TaskFlowApi.exe
+C:/Users/david/Documents/Universidad/Septimo Semestre/DESARROLLO DE APLICACIONES WEB AVANZADO/DAWA_74/TaskFlowApi/bin/Debug/net10.0/TaskFlowApi.deps.json
+C:/Users/david/Documents/Universidad/Septimo Semestre/DESARROLLO DE APLICACIONES WEB AVANZADO/DAWA_74/TaskFlowApi/bin/Debug/net10.0/TaskFlowApi.runtimeconfig.json
+C:/Users/david/Documents/Universidad/Septimo Semestre/DESARROLLO DE APLICACIONES WEB AVANZADO/DAWA_74/TaskFlowApi/bin/Debug/net10.0/TaskFlowApi.dll
+C:/Users/david/Documents/Universidad/Septimo Semestre/DESARROLLO DE APLICACIONES WEB AVANZADO/DAWA_74/TaskFlowApi/bin/Debug/net10.0/TaskFlowApi.pdb
+C:/Users/david/Documents/Universidad/Septimo Semestre/DESARROLLO DE APLICACIONES WEB AVANZADO/DAWA_74/TaskFlowApi/bin/Debug/net10.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/david/Documents/Universidad/Septimo Semestre/DESARROLLO DE APLICACIONES WEB AVANZADO/DAWA_74/TaskFlowApi/bin/Debug/net10.0/Microsoft.OpenApi.dll
+C:/Users/david/Documents/Universidad/Septimo Semestre/DESARROLLO DE APLICACIONES WEB AVANZADO/DAWA_74/TaskFlowApi/bin/Debug/net10.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/david/Documents/Universidad/Septimo Semestre/DESARROLLO DE APLICACIONES WEB AVANZADO/DAWA_74/TaskFlowApi/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/david/Documents/Universidad/Septimo Semestre/DESARROLLO DE APLICACIONES WEB AVANZADO/DAWA_74/TaskFlowApi/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/david/Documents/Universidad/Septimo Semestre/DESARROLLO DE APLICACIONES WEB AVANZADO/DAWA_74/TaskFlowApi/obj/Debug/net10.0/TaskFlowApi.csproj.AssemblyReference.cache
+C:/Users/david/Documents/Universidad/Septimo Semestre/DESARROLLO DE APLICACIONES WEB AVANZADO/DAWA_74/TaskFlowApi/obj/Debug/net10.0/rpswa.dswa.cache.json
+C:/Users/david/Documents/Universidad/Septimo Semestre/DESARROLLO DE APLICACIONES WEB AVANZADO/DAWA_74/TaskFlowApi/obj/Debug/net10.0/TaskFlowApi.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/david/Documents/Universidad/Septimo Semestre/DESARROLLO DE APLICACIONES WEB AVANZADO/DAWA_74/TaskFlowApi/obj/Debug/net10.0/TaskFlowApi.AssemblyInfoInputs.cache
+C:/Users/david/Documents/Universidad/Septimo Semestre/DESARROLLO DE APLICACIONES WEB AVANZADO/DAWA_74/TaskFlowApi/obj/Debug/net10.0/TaskFlowApi.AssemblyInfo.cs
+C:/Users/david/Documents/Universidad/Septimo Semestre/DESARROLLO DE APLICACIONES WEB AVANZADO/DAWA_74/TaskFlowApi/obj/Debug/net10.0/TaskFlowApi.csproj.CoreCompileInputs.cache
+C:/Users/david/Documents/Universidad/Septimo Semestre/DESARROLLO DE APLICACIONES WEB AVANZADO/DAWA_74/TaskFlowApi/obj/Debug/net10.0/TaskFlowApi.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/david/Documents/Universidad/Septimo Semestre/DESARROLLO DE APLICACIONES WEB AVANZADO/DAWA_74/TaskFlowApi/obj/Debug/net10.0/TaskFlowApi.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/david/Documents/Universidad/Septimo Semestre/DESARROLLO DE APLICACIONES WEB AVANZADO/DAWA_74/TaskFlowApi/obj/Debug/net10.0/TaskFlowApi.sourcelink.json
+C:/Users/david/Documents/Universidad/Septimo Semestre/DESARROLLO DE APLICACIONES WEB AVANZADO/DAWA_74/TaskFlowApi/obj/Debug/net10.0/rjimswa.dswa.cache.json
+C:/Users/david/Documents/Universidad/Septimo Semestre/DESARROLLO DE APLICACIONES WEB AVANZADO/DAWA_74/TaskFlowApi/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
+C:/Users/david/Documents/Universidad/Septimo Semestre/DESARROLLO DE APLICACIONES WEB AVANZADO/DAWA_74/TaskFlowApi/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
+C:/Users/david/Documents/Universidad/Septimo Semestre/DESARROLLO DE APLICACIONES WEB AVANZADO/DAWA_74/TaskFlowApi/obj/Debug/net10.0/scopedcss/bundle/TaskFlowApi.styles.css
+C:/Users/david/Documents/Universidad/Septimo Semestre/DESARROLLO DE APLICACIONES WEB AVANZADO/DAWA_74/TaskFlowApi/obj/Debug/net10.0/staticwebassets.build.json
+C:/Users/david/Documents/Universidad/Septimo Semestre/DESARROLLO DE APLICACIONES WEB AVANZADO/DAWA_74/TaskFlowApi/obj/Debug/net10.0/staticwebassets.build.json.cache
+C:/Users/david/Documents/Universidad/Septimo Semestre/DESARROLLO DE APLICACIONES WEB AVANZADO/DAWA_74/TaskFlowApi/obj/Debug/net10.0/staticwebassets.development.json
+C:/Users/david/Documents/Universidad/Septimo Semestre/DESARROLLO DE APLICACIONES WEB AVANZADO/DAWA_74/TaskFlowApi/obj/Debug/net10.0/staticwebassets.build.endpoints.json
+C:/Users/david/Documents/Universidad/Septimo Semestre/DESARROLLO DE APLICACIONES WEB AVANZADO/DAWA_74/TaskFlowApi/obj/Debug/net10.0/swae.build.ex.cache
+C:/Users/david/Documents/Universidad/Septimo Semestre/DESARROLLO DE APLICACIONES WEB AVANZADO/DAWA_74/TaskFlowApi/obj/Debug/net10.0/TaskFlow.5F155254.Up2Date
+C:/Users/david/Documents/Universidad/Septimo Semestre/DESARROLLO DE APLICACIONES WEB AVANZADO/DAWA_74/TaskFlowApi/obj/Debug/net10.0/TaskFlowApi.dll
+C:/Users/david/Documents/Universidad/Septimo Semestre/DESARROLLO DE APLICACIONES WEB AVANZADO/DAWA_74/TaskFlowApi/obj/Debug/net10.0/refint/TaskFlowApi.dll
+C:/Users/david/Documents/Universidad/Septimo Semestre/DESARROLLO DE APLICACIONES WEB AVANZADO/DAWA_74/TaskFlowApi/obj/Debug/net10.0/TaskFlowApi.pdb
+C:/Users/david/Documents/Universidad/Septimo Semestre/DESARROLLO DE APLICACIONES WEB AVANZADO/DAWA_74/TaskFlowApi/obj/Debug/net10.0/TaskFlowApi.genruntimeconfig.cache
+C:/Users/david/Documents/Universidad/Septimo Semestre/DESARROLLO DE APLICACIONES WEB AVANZADO/DAWA_74/TaskFlowApi/obj/Debug/net10.0/ref/TaskFlowApi.dll
+/workspaces/Aprendizaje-Angular---TaskFlow/TaskFlowApi/bin/Debug/net10.0/appsettings.Development.json
+/workspaces/Aprendizaje-Angular---TaskFlow/TaskFlowApi/bin/Debug/net10.0/appsettings.json
+/workspaces/Aprendizaje-Angular---TaskFlow/TaskFlowApi/bin/Debug/net10.0/TaskFlowApi.staticwebassets.endpoints.json
+/workspaces/Aprendizaje-Angular---TaskFlow/TaskFlowApi/bin/Debug/net10.0/TaskFlowApi
+/workspaces/Aprendizaje-Angular---TaskFlow/TaskFlowApi/bin/Debug/net10.0/TaskFlowApi.deps.json
+/workspaces/Aprendizaje-Angular---TaskFlow/TaskFlowApi/bin/Debug/net10.0/TaskFlowApi.runtimeconfig.json
+/workspaces/Aprendizaje-Angular---TaskFlow/TaskFlowApi/bin/Debug/net10.0/TaskFlowApi.dll
+/workspaces/Aprendizaje-Angular---TaskFlow/TaskFlowApi/bin/Debug/net10.0/TaskFlowApi.pdb
+/workspaces/Aprendizaje-Angular---TaskFlow/TaskFlowApi/bin/Debug/net10.0/Microsoft.AspNetCore.OpenApi.dll
+/workspaces/Aprendizaje-Angular---TaskFlow/TaskFlowApi/bin/Debug/net10.0/Microsoft.OpenApi.dll
+/workspaces/Aprendizaje-Angular---TaskFlow/TaskFlowApi/bin/Debug/net10.0/Swashbuckle.AspNetCore.Swagger.dll
+/workspaces/Aprendizaje-Angular---TaskFlow/TaskFlowApi/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/workspaces/Aprendizaje-Angular---TaskFlow/TaskFlowApi/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/workspaces/Aprendizaje-Angular---TaskFlow/TaskFlowApi/obj/Debug/net10.0/TaskFlowApi.csproj.AssemblyReference.cache
+/workspaces/Aprendizaje-Angular---TaskFlow/TaskFlowApi/obj/Debug/net10.0/rpswa.dswa.cache.json
+/workspaces/Aprendizaje-Angular---TaskFlow/TaskFlowApi/obj/Debug/net10.0/TaskFlowApi.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Aprendizaje-Angular---TaskFlow/TaskFlowApi/obj/Debug/net10.0/TaskFlowApi.AssemblyInfoInputs.cache
+/workspaces/Aprendizaje-Angular---TaskFlow/TaskFlowApi/obj/Debug/net10.0/TaskFlowApi.AssemblyInfo.cs
+/workspaces/Aprendizaje-Angular---TaskFlow/TaskFlowApi/obj/Debug/net10.0/TaskFlowApi.csproj.CoreCompileInputs.cache
+/workspaces/Aprendizaje-Angular---TaskFlow/TaskFlowApi/obj/Debug/net10.0/TaskFlowApi.MvcApplicationPartsAssemblyInfo.cs
+/workspaces/Aprendizaje-Angular---TaskFlow/TaskFlowApi/obj/Debug/net10.0/TaskFlowApi.MvcApplicationPartsAssemblyInfo.cache
+/workspaces/Aprendizaje-Angular---TaskFlow/TaskFlowApi/obj/Debug/net10.0/TaskFlowApi.sourcelink.json
+/workspaces/Aprendizaje-Angular---TaskFlow/TaskFlowApi/obj/Debug/net10.0/rjimswa.dswa.cache.json
+/workspaces/Aprendizaje-Angular---TaskFlow/TaskFlowApi/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
+/workspaces/Aprendizaje-Angular---TaskFlow/TaskFlowApi/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
+/workspaces/Aprendizaje-Angular---TaskFlow/TaskFlowApi/obj/Debug/net10.0/scopedcss/bundle/TaskFlowApi.styles.css
+/workspaces/Aprendizaje-Angular---TaskFlow/TaskFlowApi/obj/Debug/net10.0/staticwebassets.build.json
+/workspaces/Aprendizaje-Angular---TaskFlow/TaskFlowApi/obj/Debug/net10.0/staticwebassets.build.json.cache
+/workspaces/Aprendizaje-Angular---TaskFlow/TaskFlowApi/obj/Debug/net10.0/staticwebassets.development.json
+/workspaces/Aprendizaje-Angular---TaskFlow/TaskFlowApi/obj/Debug/net10.0/staticwebassets.build.endpoints.json
+/workspaces/Aprendizaje-Angular---TaskFlow/TaskFlowApi/obj/Debug/net10.0/swae.build.ex.cache
+/workspaces/Aprendizaje-Angular---TaskFlow/TaskFlowApi/obj/Debug/net10.0/TaskFlow.5F155254.Up2Date
+/workspaces/Aprendizaje-Angular---TaskFlow/TaskFlowApi/obj/Debug/net10.0/TaskFlowApi.dll
+/workspaces/Aprendizaje-Angular---TaskFlow/TaskFlowApi/obj/Debug/net10.0/refint/TaskFlowApi.dll
+/workspaces/Aprendizaje-Angular---TaskFlow/TaskFlowApi/obj/Debug/net10.0/TaskFlowApi.pdb
+/workspaces/Aprendizaje-Angular---TaskFlow/TaskFlowApi/obj/Debug/net10.0/TaskFlowApi.genruntimeconfig.cache
+/workspaces/Aprendizaje-Angular---TaskFlow/TaskFlowApi/obj/Debug/net10.0/ref/TaskFlowApi.dll

@@ -1,5 +1,6 @@
 import { Component, Input } from '@angular/core';
 import { CommonModule } from '@angular/common';
+import { TaskService } from '../../services/task.service';
 
 interface Tarea{
   id: number,
@@ -19,7 +20,16 @@ interface Tarea{
 })
 
 export class TaskList {
-  @Input() tareas: Tarea[] = [];
+  constructor(private taskService: TaskService){}
+
+  ngOnInit(){
+    this.taskService.obtenerTareas().subscribe(datos =>{
+      this.tareas = datos;
+    })
+  }
+  //@Input() tareas: Tarea[] = [];
+
+  tareas: Tarea[] = [];
 
   mostrarMensaje = true;
 

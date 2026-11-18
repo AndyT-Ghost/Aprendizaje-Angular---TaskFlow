@@ -6,5 +6,7 @@ namespace TaskFlowApi.Models
         public string Titulo { get; set; } = string.Empty;
         public string Descripcion { get; set; } = string.Empty;
         public bool Completada { get; set; }
+        public string prioridad {get; set;} = string.Empty;
+        public string fecha {get; set;} = string.Empty;
     }
 }

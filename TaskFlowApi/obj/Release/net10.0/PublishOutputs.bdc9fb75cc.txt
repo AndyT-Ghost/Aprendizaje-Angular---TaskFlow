@@ -1,0 +1,12 @@
+/workspaces/Aprendizaje-Angular---TaskFlow/TaskFlowApi/bin/Release/net10.0/publish/TaskFlowApi
+/workspaces/Aprendizaje-Angular---TaskFlow/TaskFlowApi/bin/Release/net10.0/publish/appsettings.Development.json
+/workspaces/Aprendizaje-Angular---TaskFlow/TaskFlowApi/bin/Release/net10.0/publish/appsettings.json
+/workspaces/Aprendizaje-Angular---TaskFlow/TaskFlowApi/bin/Release/net10.0/publish/TaskFlowApi.dll
+/workspaces/Aprendizaje-Angular---TaskFlow/TaskFlowApi/bin/Release/net10.0/publish/TaskFlowApi.deps.json
+/workspaces/Aprendizaje-Angular---TaskFlow/TaskFlowApi/bin/Release/net10.0/publish/TaskFlowApi.runtimeconfig.json
+/workspaces/Aprendizaje-Angular---TaskFlow/TaskFlowApi/bin/Release/net10.0/publish/TaskFlowApi.pdb
+/workspaces/Aprendizaje-Angular---TaskFlow/TaskFlowApi/bin/Release/net10.0/publish/Microsoft.AspNetCore.OpenApi.dll
+/workspaces/Aprendizaje-Angular---TaskFlow/TaskFlowApi/bin/Release/net10.0/publish/Microsoft.OpenApi.dll
+/workspaces/Aprendizaje-Angular---TaskFlow/TaskFlowApi/bin/Release/net10.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/workspaces/Aprendizaje-Angular---TaskFlow/TaskFlowApi/bin/Release/net10.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/workspaces/Aprendizaje-Angular---TaskFlow/TaskFlowApi/bin/Release/net10.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll

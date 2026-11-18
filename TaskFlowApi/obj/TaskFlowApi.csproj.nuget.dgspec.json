@@ -1,36 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\david\\Documents\\Universidad\\Septimo Semestre\\DESARROLLO DE APLICACIONES WEB AVANZADO\\DAWA_74\\TaskFlowApi\\TaskFlowApi.csproj": {}
+    "/workspaces/Aprendizaje-Angular---TaskFlow/TaskFlowApi/TaskFlowApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\david\\Documents\\Universidad\\Septimo Semestre\\DESARROLLO DE APLICACIONES WEB AVANZADO\\DAWA_74\\TaskFlowApi\\TaskFlowApi.csproj": {
+    "/workspaces/Aprendizaje-Angular---TaskFlow/TaskFlowApi/TaskFlowApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\david\\Documents\\Universidad\\Septimo Semestre\\DESARROLLO DE APLICACIONES WEB AVANZADO\\DAWA_74\\TaskFlowApi\\TaskFlowApi.csproj",
+        "projectUniqueName": "/workspaces/Aprendizaje-Angular---TaskFlow/TaskFlowApi/TaskFlowApi.csproj",
         "projectName": "TaskFlowApi",
-        "projectPath": "C:\\Users\\david\\Documents\\Universidad\\Septimo Semestre\\DESARROLLO DE APLICACIONES WEB AVANZADO\\DAWA_74\\TaskFlowApi\\TaskFlowApi.csproj",
-        "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\david\\Documents\\Universidad\\Septimo Semestre\\DESARROLLO DE APLICACIONES WEB AVANZADO\\DAWA_74\\TaskFlowApi\\obj\\",
+        "projectPath": "/workspaces/Aprendizaje-Angular---TaskFlow/TaskFlowApi/TaskFlowApi.csproj",
+        "packagesPath": "/home/codespace/.nuget/packages/",
+        "outputPath": "/workspaces/Aprendizaje-Angular---TaskFlow/TaskFlowApi/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\david\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/codespace/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net10.0": {
+            "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {}
           }
@@ -45,10 +39,11 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.100"
+        "SdkAnalysisLevel": "10.0.400"
       },
       "frameworks": {
         "net10.0": {
+          "framework": "net10.0",
           "targetAlias": "net10.0",
           "dependencies": {
             "Microsoft.AspNetCore.OpenApi": {
@@ -79,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.115/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.403/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.AspNetCore": "(,10.0.32767]",
             "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",
