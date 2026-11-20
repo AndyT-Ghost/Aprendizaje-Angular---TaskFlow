@@ -1,4 +1,4 @@
-import { Component, Input } from '@angular/core';
+import { ChangeDetectorRef, Component, OnInit } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { TaskService } from '../../services/task.service';
 
@@ -19,19 +19,28 @@ interface Tarea{
   styleUrl: './task-list.css',
 })
 
-export class TaskList {
-  constructor(private taskService: TaskService){}
+export class TaskList implements OnInit {
+  tareas: Tarea[] = [];
+  mostrarMensaje = true;
+
+  constructor(
+    private taskService: TaskService,
+    private changeDetector: ChangeDetectorRef
+  ){}
 
   ngOnInit(){
-    this.taskService.obtenerTareas().subscribe(datos =>{
-      this.tareas = datos;
-    })
+      this.cargarTareas();
   }
-  //@Input() tareas: Tarea[] = [];
 
-  tareas: Tarea[] = [];
-
-  mostrarMensaje = true;
+  cargarTareas(){
+    this.taskService.obtenerTareas().subscribe({
+      next: (datos: Tarea[]) => {
+        this.tareas = datos;
+        this.changeDetector.detectChanges();
+      },
+      error: (error) => console.error('No se pudieron cargar las tareas', error)
+    });
+  }
 
   alternarMensaje(){
     this.mostrarMensaje = !this.mostrarMensaje;
@@ -51,3 +60,5 @@ export class TaskList {
     return fecha > hoy ? true : false;
   }
 }
+
+

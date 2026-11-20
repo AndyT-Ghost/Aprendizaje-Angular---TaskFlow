@@ -24,12 +24,14 @@ export class TaskForm {
     }
 
     const nuevaTarea = {
-      id: Date.now(),
+      id: 0,
       titulo:this.titulo,
       descripcion: this.descripcion,
+      completada: false,
       prioridad: this.prioridad,
       fechaLimite: this.fechaLimite
     };
+
     this.tareaAgregada.emit(nuevaTarea);
 
     this.titulo = '';
